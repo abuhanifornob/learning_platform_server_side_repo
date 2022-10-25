@@ -1,0 +1,30 @@
+[{
+        "id": "01",
+        "name": "All"
+    },
+    {
+        "id": "02",
+        "name": "Web Development "
+    },
+    {
+        "id": "03",
+        "name": "Graphic Designe "
+    },
+    {
+        "id": "04",
+        "name": "Video Editing"
+    },
+    {
+        "id": "05",
+        "name": "Languages"
+    },
+    {
+        "id": "06",
+        "name": "Data Science"
+    },
+    {
+        "id": "07",
+        "name": "Machine Learning"
+    }
+
+]
