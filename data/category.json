@@ -1,29 +1,29 @@
 [{
-        "id": "01",
-        "name": "All"
+        "id": "07",
+        "name": "All Courses"
     },
     {
-        "id": "02",
+        "id": "01",
         "name": "Web Development "
     },
     {
-        "id": "03",
+        "id": "02",
         "name": "Graphic Designe "
     },
     {
-        "id": "04",
+        "id": "03",
         "name": "Video Editing"
     },
     {
-        "id": "05",
+        "id": "04",
         "name": "Languages"
     },
     {
-        "id": "06",
+        "id": "05",
         "name": "Data Science"
     },
     {
-        "id": "07",
+        "id": "06",
         "name": "Machine Learning"
     }
 
