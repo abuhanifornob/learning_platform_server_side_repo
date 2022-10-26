@@ -25,6 +25,9 @@ app.get("/category/:id", (req, res) => {
 
 
 })
+app.get("/courses", (req, res) => {
+    res.send(courses)
+})
 
 app.listen(port, () => {
     console.log("Dragon surver running", port);
