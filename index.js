@@ -28,6 +28,11 @@ app.get("/category/:id", (req, res) => {
 app.get("/courses", (req, res) => {
     res.send(courses)
 })
+app.get('/cours/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCours = courses.find(cours => cours._id === id);
+    res.send(selectedCours);
+});
 
 app.listen(port, () => {
     console.log("Dragon surver running", port);
